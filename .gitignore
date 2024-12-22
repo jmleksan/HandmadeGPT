@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+openwebtext_local/
+
 # Distribution / packaging
 .Python
 build/
