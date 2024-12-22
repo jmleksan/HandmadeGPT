@@ -38,6 +38,6 @@ Although I could not fully train the model due to time constraints, I trained it
 
 ---
 
-**Sample output after acheving a loss of 6:**
+**Sample output after achieving a loss of 6:**
 
 Generated text: Once upon a time to be the story of the world’s new world are taking a big price of this year. Here is our one of the world that was first look at least a new study of a big story that has shown to see it, a lot of the most of how that have done it will be a bit on the other forms of a major. No. For example from the past a good as a series for a good news conference just over what most people who were true. This particular long way. Even before the year’s in particular a little many different episodes to see an incredible life, to be the past several reasons over our third a massive to the team’s that time or a good time. My first time since I would like one of hard time, which, and we came the good part of a post on one of the very happy with a time, but on its entire new year, but there wasn’s that time. "The way to hold
